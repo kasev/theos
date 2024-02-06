@@ -1,4 +1,9 @@
-provenience,works_n,tokens_n,lemmata_n
-christian,207,7574364,3055623
-jewish,92,2103563,811241
-pagan,1345,20366621,9270260
+subcorpus,works_n,tokens_n,lemmata_n
+pagan_archaic,59,338991,199023
+pagan_classical,454,4129342,2042961
+pagan_hellenistic,148,2533938,1303655
+pagan_roman_peak,568,10818838,4781560
+pagan_roman_late,206,5387750,1943412
+christian_roman_peak,113,2082493,869103
+christian_roman_late,94,3800665,1529864
+jewish,93,2121316,814648
