@@ -2,8 +2,8 @@ subcorpus,works_n,tokens_n,lemmata_n
 pagan_archaic,59,338991,199023
 pagan_classical,454,4129342,2042961
 pagan_hellenistic,148,2533938,1303655
-pagan_roman_peak,568,10818838,4781560
-pagan_roman_late,206,5387750,1943412
+pagan_roman_peak,602,10903481,4820083
+pagan_roman_late,229,5446413,1970470
 christian_roman_peak,113,2082493,869103
-christian_roman_late,94,3800665,1529864
+christian_roman_late,96,3833534,1544889
 jewish,93,2121316,814648
