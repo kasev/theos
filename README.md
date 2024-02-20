@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/425879941.svg)](https://zenodo.org/doi/10.5281/zenodo.10684948)
+
 # theos
 
 This repository contains analyses associated with the article "**A Distributional Semantic Approach to the Religious and Moral Dynamics in the Ancient Greek Texts**".
