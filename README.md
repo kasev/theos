@@ -2,12 +2,11 @@
 
 # theos
 
-This repository contains analyses associated with the article "**A Distributional Semantic Approach to the Religious and Moral Dynamics in the Ancient Greek Texts**".
+This repository contains analyses associated with the article "**Cultural Evolution of Moralizing Religions in Ancient Greek Texts: A Distributional Semantic Approach**".
 
 ## Authors
 
-* Vojtěch Kaše [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-6601-1605), University of West Bohemia (*kase@ff.zcu.cz*)
-* Tomáš Glomb [![](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0001-6862-8409), Masaryk University (*tomas.glomb@mail.muni.cz*)
+* [Anonymized - under review]
 
 ## License
 
@@ -19,5 +18,6 @@ CC-BY-SA 4.0, see attached License.md
 
 * download or clone the repository
 * move to the `scripts` subfoldeer and run the Jupyter notebooks following their numbering
+* we recommend to use a virtual environment with packages from `requirements.txt`
 
 ---
