@@ -1,0 +1,9 @@
+subcorpus,works (N),tokens (N),lemmata (N)
+Pagan Archaic,59,338991,199023
+Pagan Classical,454,4129342,2042961
+Pagan Hellensitic,148,2533938,1303655
+Pagan Roman (1-2 CE),602,10903481,4820083
+Pagan Roman (3-6 CE),229,5446413,1970470
+Christian (1-2 CE),113,2082493,869103
+Christian (3-6 CE),96,3833534,1544889
+Jewish,93,2121316,814648
