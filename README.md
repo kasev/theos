@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/425879941.svg)](https://zenodo.org/doi/10.5281/zenodo.10684948)
-
 # theos
 
 This repository contains analyses associated with the article "**Cultural Evolution of Moralizing Religions in Ancient Greek Texts: A Distributional Semantic Approach**".
