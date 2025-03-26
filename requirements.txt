@@ -2,13 +2,16 @@ virtualenv
 jupyter
 ipykernel
 
-pandas
+contourpy==1.0.5
+gensim==4.2.0
+matplotlib==3.5.3
+matplotlib-inline==0.1.7
+numpy==1.22.4
+scikit-learn==1.1.1
+scipy==1.8.1
+pandas==1.4.4
 nltk
-gensim
 networkx
-scikit-learn
-
-matplotlib
 seaborn
 
 sddk
